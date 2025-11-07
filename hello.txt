@@ -1,1 +1,2 @@
-So this is the first file
+Hello, this is my first GitHub change!
+Adding a second line for practice.
